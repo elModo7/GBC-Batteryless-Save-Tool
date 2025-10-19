@@ -6,6 +6,6 @@ It is specifically made for **Pokemon Prism v0.94.256** bootlegs but may work wi
 
 <img width="642" height="297" alt="Pokemon_Prism_Batteryless_Bootleg_Repro_Save_Injector_ _Extractor_SvgxvATRBq" src="https://github.com/user-attachments/assets/831357f7-371b-4ad8-be30-542758a69f4a" />
 
-
+You need AutoHotkey v1 for running the program or just [download the executable](https://github.com/elModo7/GBC-Batteryless-Save-Tool/releases/) from releases section.
 
 > Pull requests are welcome, also, if you found it useful ⭐ stars on my repos help me promote my porfolio 🚀.
