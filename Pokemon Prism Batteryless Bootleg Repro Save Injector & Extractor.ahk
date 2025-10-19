@@ -1,7 +1,7 @@
 ;@Ahk2Exe-SetName PokePrism batteryless save Injector & Extractor
 ;@Ahk2Exe-SetDescription Extracts & Replaces save files in a batteryless Pokemon Prism
 ;@Ahk2Exe-SetVersion 1.0
-;@Ahk2Exe-SetCopyright Copyright (c) 2025`, elModo7
+;@Ahk2Exe-SetCopyright Copyright (c) 2025`, elModo7 / VictorDevLog
 ;@Ahk2Exe-SetOrigFilename Pokemon Prism Batteryless Save Injector & Extractor.exe
 version := "1.0"
 #NoEnv
@@ -24,7 +24,7 @@ statLabel := "v1.0 elModo7 / VictorDevLog 2025"
 Gui +E0x10 +HwndhGui
 Gui, Margin, 12, 12
 Gui, Font, s10, Segoe UI
-Gui, Add, Text, xm ym+2 cGray, Batteryless Pokémon Prism v0.95.254 Save Manager
+Gui, Add, Text, xm ym+2 cGray, Batteryless PokÃ©mon Prism v0.95.254 Save Manager
 
 ; -- Left column: Paths and actions -------------------------------------------
 Gui, Add, GroupBox, xm y+8 w430 h105, Batteryless ROM
@@ -44,11 +44,11 @@ Gui, Add, Button, xm y+16 w150 gOpenFolderRom, Open ROM Folder
 Gui, Add, Button, x+8 yp w110 gAbout, About
 
 Gui Add, StatusBar, vstatus, %statLabel%
-Gui, Show, w640 h270, Pokémon Prism Bootleg Tool
+Gui, Show, w640 h270, PokÃ©mon Prism Bootleg Tool
 return
 
 BrowseRom:
-    FileSelectFile, pickedRom, 3,, Select Pokémon Prism Batteryless ROM, Game Boy Color ROM (*.gbc)
+    FileSelectFile, pickedRom, 3,, Select PokÃ©mon Prism Batteryless ROM, Game Boy Color ROM (*.gbc)
     setRomFile(pickedRom)
 Return
 
