@@ -1,3 +1,4 @@
+
 # Bootleg one-chip Save Manager
 
 This tool allows you to inject and extract save files from bootleg Game Boy carts.
@@ -8,4 +9,9 @@ It is specifically made for **Pokemon Prism v0.94.254** bootlegs but may work wi
 
 You need AutoHotkey v1 for running the program or just [download the executable](https://github.com/elModo7/GBC-Batteryless-Save-Tool/releases/) from releases section.
 
+## YouTube Videos:
+[📹\[English\] YouTube video](https://youtu.be/0jAVcUjAwSY)
+[📹\[Spanish\] YouTube video](https://youtu.be/IhN1iViYwTg)
+
 > Pull requests are welcome, also, if you found it useful ⭐ stars on my repos help me promote my porfolio 🚀.
+
