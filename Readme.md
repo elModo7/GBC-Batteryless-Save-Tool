@@ -17,3 +17,5 @@ You need AutoHotkey v1 for running the program or just [download the executable]
 > Pull requests are welcome, also, if you found it useful ⭐ stars on my repos help me promote my porfolio 🚀.
 
 
+> [!NOTE]  
+> This tool involves no ROM file sharing, it just reads and injects to your own dumped ROMs.
