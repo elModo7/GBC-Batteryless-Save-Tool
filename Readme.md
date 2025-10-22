@@ -1,5 +1,6 @@
 
 # Bootleg one-chip Save Manager
+> V2 here: https://github.com/elModo7/GBC-Batteryless-Save-Tool-V2
 
 This tool allows you to inject and extract save files from bootleg Game Boy carts.
 
@@ -19,3 +20,4 @@ You need AutoHotkey v1 for running the program or just [download the executable]
 
 > [!NOTE]  
 > This tool involves no ROM file sharing, it just reads and injects to your own dumped ROMs.
+
